@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary purpose _________ neural network (ANN)?",
+      "options": ["Option 1"]
+    },
+    {
+      "question": "Which component of a _________ network introduces non-linearity and enables complex pattern modeling?",
+      "options": ["Option 2"]
+    },
+    {
+      "question": "What training algorithm is _________ used to adjust neural network weights by minimizing prediction errors?",
+      "options": ["Option 1"]
+    },
+    {
+      "question": "What is the primary challenge addressed by _________ in neural networks?",
+      "options": ["Option 1"]
+    },
+    {
+      "question": "Which type of neural network is well-suited for _________ sequential data, such as time series or natural language?",
+      "options": ["Option 1"]
+    }
+  ]
+}

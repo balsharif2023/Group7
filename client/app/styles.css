@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(0, 183, 255);
+  }
+
+  @media screen and (max-width: 480px) {
+    .name {
+      font-size: 3rem;
+    }
+
+    .paper {
+      width: 300px
+    }
+  }

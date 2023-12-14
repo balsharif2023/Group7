@@ -1,0 +1,34 @@
+{
+  "activityTypes": [
+    {
+      "name": "Multiple Choice",
+      "route": "multiple-choice",
+      "imageUrl": "/images/multiple-choice.png"
+    },
+    {
+      "name": "True or False",
+      "route": "true-false",
+      "imageUrl": "/images/true-or-false.png"
+    },
+    {
+      "name": "Matching",
+      "route": "matching",
+      "imageUrl": "/images/matching.png"
+    },
+    {
+      "name": "Flash Cards",
+      "route": "flash-cards",
+      "imageUrl": "/images/flash-card.png"
+    },
+    {
+      "name": "Fill in the Blank",
+      "route": "fill-in-the-blank",
+      "imageUrl": "/images/fill-in-the-blank.png"
+    },
+    {
+      "name": "Essay",
+      "route": "essay",
+      "imageUrl": "/images/essay.png"
+    }
+  ]
+}

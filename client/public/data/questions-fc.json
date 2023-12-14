@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary purpose of an artificial neural network (ANN)?",
+      "options": ["Option 1"]
+    },
+    {
+      "question": "Which component of a neural network introduces non-linearity and enables complex pattern modeling?",
+      "options": ["Option 1"]
+    },
+    {
+      "question": "What training algorithm is commonly used to adjust neural network weights by minimizing prediction errors?",
+      "options": ["Option 1"]
+    },
+    {
+      "question": "What is the primary challenge addressed by dropout in neural networks?",
+      "options": ["Option 1"]
+    },
+    {
+      "question": "Which type of neural network is well-suited for processing sequential data, such as time series or natural language?",
+      "options": ["Option 1"]
+    }
+  ]
+}
